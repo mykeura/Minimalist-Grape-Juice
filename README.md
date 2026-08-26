@@ -1,4 +1,4 @@
-# Minimalist Grape Juice 🍇
+# Minimalist Grape Juice
 
 A minimal Chrome theme in a calm, grape-purple palette, by Miguel Euraque.
 
